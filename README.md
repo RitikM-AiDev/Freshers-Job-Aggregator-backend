@@ -46,6 +46,9 @@ RUN THIS TO INSTALL ALL REQUIRED LIBRARIES:
 pip install -r requirements.txt
 ```
 ```bash
+playwright uninstall
+```
+```bash
 playwright install chromium
 ```
 
